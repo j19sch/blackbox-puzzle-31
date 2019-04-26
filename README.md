@@ -23,6 +23,7 @@ it starting from the output, from a range of inputs, etc.
 ### Contents
 - `get_it_all.py`: get the output for all possible input combinations and write it to the csv file `puzzle31.csv`
 - `puzzle31.csv`: all input combinations and their output
+- `puzzle31.ods`: LibreOffice Calc sheet using tables, conditional formatting and filters to solve the puzzle
 
 ### Setup
 - Install Python 3
