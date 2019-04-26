@@ -24,9 +24,23 @@ it starting from the output, from a range of inputs, etc.
 - `get_it_all.py`: get the output for all possible input combinations and write it to the csv file `puzzle31.csv`
 - `puzzle31.csv`: all input combinations and their output
 - `puzzle31.ods`: LibreOffice Calc sheet using tables, conditional formatting and filters to solve the puzzle
+- `puzzle31.ipynb`: Jupyter notebook, run with `jupyter notebook puzzle31.ipynb` 
+
 
 ### Setup
 - Install Python 3
 - Create a virtual environment: `python -m venv venv` or `python3 -m venv venv`
 - Activate the virtual environment: (linux/mac) `source ./venv/bin/activate` or (win) `venv\Scripts\activate`
 - Install dependencies: `pip install -r requirements.txt`
+
+
+## Resources
+
+### Jupyter, Pandas, Seaborn etc.
+- https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+- https://pandas.pydata.org/pandas-docs/stable/reference/frame.html
+- https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials
+- https://seaborn.pydata.org/generated/seaborn.heatmap.html
+- https://seaborn.pydata.org/index.html
+- https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
+- https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
