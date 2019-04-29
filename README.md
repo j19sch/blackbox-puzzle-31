@@ -1,5 +1,8 @@
 # BlackBox Puzzle 31
 
+You can find the blog post in which I share my line of thought here:  
+https://testingcurve.wordpress.com/2019/04/28/solving-black-box-puzzle-31-with-data-analysis/
+
 
 ## The puzzle
 [James Lyndsay](https://twitter.com/workroomprds) has created a number of
