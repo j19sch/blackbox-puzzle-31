@@ -1,7 +1,7 @@
 # BlackBox Puzzle 31
 
 You can find the blog post in which I share my line of thought here:  
-https://testingcurve.wordpress.com/2019/04/28/solving-black-box-puzzle-31-with-data-analysis/
+https://j19sch.github.io/blog/2019/solving-black-box-puzzle-31-with-data-analysis/
 
 
 ## The puzzle
